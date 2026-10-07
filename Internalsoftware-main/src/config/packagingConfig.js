@@ -3,17 +3,17 @@
  */
 
 export const PACKAGING_DATA = [
-  { id: 1, name: "1LTR JAR", price: 145, litres: 1 },
-  { id: 2, name: "2LTR JAR", price: 275, litres: 2 },
-  { id: 3, name: "5LTR PLASTIC JAR", price: 665, litres: 5 },
-  { id: 4, name: "5LTR STEEL BARNI", price: 890, litres: 5 },
-  { id: 5, name: "10 LTR JAR", price: 1340, litres: 10 },
-  { id: 6, name: "10 LTR STEEL", price: 1770, litres: 10 },
-  { id: 7, name: "20 LTR CARBO", price: 2550, litres: 20 },
-  { id: 8, name: "20 LTR CAN", price: 3250, litres: 20 },
-  { id: 9, name: "20 LTR STEEL", price: 3520, litres: 20 },
+  { id: 1, name: "1LTR JAR", price: 155, litres: 1 },
+  { id: 2, name: "2LTR JAR", price: 290, litres: 2 },
+  { id: 3, name: "5LTR PLASTIC JAR", price: 700, litres: 5 },
+  { id: 4, name: "5LTR STEEL BARNI", price: 920, litres: 5 },
+  { id: 5, name: "10 LTR JAR", price: 1400, litres: 10 },
+  { id: 6, name: "10 LTR STEEL", price: 1860, litres: 10 },
+  { id: 7, name: "20 LTR CARBO", price: 2650, litres: 20 },
+  { id: 8, name: "20 LTR CAN", price: 3410, litres: 20 },
+  { id: 9, name: "20 LTR STEEL", price: 3730, litres: 20 },
+  { id: 10, name: "1LTR PET", price: 110, litres: 1 },
 ];
-
 /**
  * Get price by packaging name
  * @param {string} packagingName - The name of the packaging
